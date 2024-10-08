@@ -1,0 +1,45 @@
+body {
+  background-color: white; 
+  color: black; 
+}
+
+.navbar {
+  background-color: #b22222; 
+}
+
+.table {
+  background-color : #ffffff; 
+}
+
+.table th {
+  background-color: #b22222; 
+  color: white; 
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #ffffff; 
+}
+
+.btn-warning {
+  background-color: #ffcc00; 
+  border: none; 
+}
+
+.btn-danger {
+  background-color: #dc3545; 
+}
+
+footer {
+  background-color: #b22222; 
+  color: white;
+}
+
+.pagination .page-item .page-link {
+  background-color: #b22222;
+  color: white;
+}
+
+.pagination .page-item.active .page-link {
+  background-color: grey;
+  color: white;
+}
